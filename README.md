@@ -76,10 +76,13 @@ cd client
 npm run dev
 ```
 
-Frontend: http://localhost:5173
-Backend: http://localhost:5000
+## 🌐 Local Development URLs
+> 🖥️ **Frontend** → [http://localhost:5173](http://localhost:5173)  
+> ⚙️ **Backend**  → [http://localhost:5000](http://localhost:5000)
+<br>
 
 🗂️ Project Layout
+```
 PROJECTMANAGEMENT/
 ├── client/
 │   └── src/
@@ -92,12 +95,21 @@ PROJECTMANAGEMENT/
 ├── server/               # Express routes, models, controllers
 │
 └── README.md
+```
 
-🎨 Design Principles
-💡 Minimal & Modern – Tailwind for crisp, utility-first styling
-🔒 Privacy First – JWT-secured API endpoints
-⚡ Performance – Vite for lightning-fast HMR and builds
-🔧 Maintainable – Context API for predictable state flow
+## 🎨 Design Principles
+> **💡 Minimal & Modern**  
+> _Tailwind CSS ensures a crisp, utility-first design that adapts beautifully across devices._
+
+> **🔒 Privacy First**  
+> _JWT-secured API endpoints guarantee strong protection of user data._
+
+> **⚡ Performance**  
+> _Vite’s lightning-fast HMR and optimized builds keep development and production blazing quick._
+
+> **🔧 Maintainable**  
+> _React Context API enables predictable state management for effortless scaling._
+
 
 
 
