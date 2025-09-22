@@ -58,12 +58,15 @@ cd client && npm install
 cd ../server && npm install
 ```
 3️⃣ Environment Variables
+```
 Create a server/.env file:
 MONGO_URI=your_mongo_connection
 JWT_SECRET=your_secret
 PORT=5000
+```
 
 4️⃣ Run Development Servers
+```
 # Backend
 cd server
 npm run dev
@@ -71,6 +74,7 @@ npm run dev
 # Frontend (new terminal)
 cd client
 npm run dev
+```
 
 Frontend: http://localhost:5173
 Backend: http://localhost:5000
