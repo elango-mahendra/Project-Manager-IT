@@ -56,7 +56,7 @@ cd client && npm install
 
 # Backend
 cd ../server && npm install
-
+```
 3️⃣ Environment Variables
 Create a server/.env file:
 MONGO_URI=your_mongo_connection
