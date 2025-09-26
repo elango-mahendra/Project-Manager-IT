@@ -48,7 +48,7 @@
 
 ### 2️⃣ Installation
 ```bash
-git clone https://github.com/<your-username>/project-management.git
+git clone https://github.com/elango-mahendra/project-management.git
 cd project-management
 
 # Frontend
